@@ -1,0 +1,16 @@
+d11b5cf303aad6a9b96102875433fa23 *DESCRIPTION
+bfd50cb08b4ecd140ff83dc1bf86e0dc *NAMESPACE
+1594fe2761635b6b88ae7874d512b690 *R/findCov.R
+3e24e4007bc4933ee3abf3087da76e4a *R/findFit.R
+18a12f8985a4e11c3c93149c8e8d6144 *R/findMatrix.R
+55cba101f4a65b6195673c4c65d4d899 *R/getMatrix.R
+3a93c4b61a5c21be5707007fa66d0bdc *R/lisrelMatrix.R
+ab0c8788239cbb49eb6d96cc6d8584e2 *R/matRange.R
+83b51d3839662864f90ceb6729ba7108 *R/methods.R
+53d459b17c9e43d0fe651a7f4e4a4eef *R/readLisrel.R
+8e878ca6e62bc94869ac46313cc32326 *R/zzz.R
+674b1932685f6dea47a525a3a4cd5c46 *README.md
+b30c270e14ecfeaba17ab5e3a3db2c4e *man/lisrelMatrix.Rd
+08b086ffc986ff7316457be6554fa097 *man/lisrelToR-package.Rd
+c21ee87a4cff445e7f73c445568de112 *man/print.lisrel.Rd
+798e57fd68aa16543da696dd9f567f80 *man/readLisrel.Rd
