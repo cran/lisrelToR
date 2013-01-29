@@ -1,4 +1,4 @@
-df4f65a9600c2cbad44f68dcc750f2a6 *DESCRIPTION
+4bc77d65f7d63ed7c0d0682568b8f82f *DESCRIPTION
 23cc859e86f8d4f89ab6fc5a496dfba9 *NAMESPACE
 e00534e61be2620488801576c96ab49a *NEWS
 1594fe2761635b6b88ae7874d512b690 *R/findCov.R
@@ -10,7 +10,6 @@ ab0c8788239cbb49eb6d96cc6d8584e2 *R/matRange.R
 3e060325947dae0cad3936f76df401b0 *R/methods.R
 b3b55db76f71feb0d3e99564e711bd43 *R/readLisrel.R
 8e878ca6e62bc94869ac46313cc32326 *R/zzz.R
-674b1932685f6dea47a525a3a4cd5c46 *README.md
 b30c270e14ecfeaba17ab5e3a3db2c4e *man/lisrelMatrix.Rd
 08b086ffc986ff7316457be6554fa097 *man/lisrelToR-package.Rd
 0ac069ef3274cc8c0648addfe2368add *man/methods.Rd
