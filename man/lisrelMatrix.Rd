@@ -93,7 +93,7 @@ Sacha Epskamp <mail@sachaepskamp.com>
 }
 \examples{
 ## Measurment invariance example:
-download.file("http://sachaepskamp.com/files/mi1.OUT",modFile <- tempfile(fileext=".OUT"))
+modFile <- system.file("extdata", "mi1.OUT", package = "lisrelToR")
 Lis <- readLisrel(modFile)
 
 # Extract Lambda-Y for group 2:
